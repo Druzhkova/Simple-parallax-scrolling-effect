@@ -1,3 +1,3 @@
-# Simple Parallax Scrolling Effect with CSS
+# Simple parallax scrolling effect with CSS
 
-https://viktoriya-druzhkova.github.io/Simple_Parallax_Scrolling_Effect_with_CSS/
+<a href='https://druzhkova.github.io/Simple-parallax-scrolling-effect/'>Watch here</a>
